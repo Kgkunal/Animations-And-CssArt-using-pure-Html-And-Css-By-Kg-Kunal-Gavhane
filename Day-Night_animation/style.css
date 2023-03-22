@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #0c1330;
+    background-color: #4ce8db;
   }
   .container {
     height: 25em;
@@ -60,7 +60,7 @@ body {
     }
   }
   .sun {
-    background-color: #f7f7de;
+    background-color: #f0f02f;
     height: 3.75em;
     width: 3.75em;
     border-radius: 50%;
